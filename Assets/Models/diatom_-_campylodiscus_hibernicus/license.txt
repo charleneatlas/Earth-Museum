@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diatom - Campylodiscus Hibernicus
+* source:	https://sketchfab.com/3d-models/diatom-campylodiscus-hibernicus-790359f0200944c7b635becc25b2751c
+* author:	David Peterman (https://sketchfab.com/Sphenodiscus24)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diatom - Campylodiscus Hibernicus" (https://sketchfab.com/3d-models/diatom-campylodiscus-hibernicus-790359f0200944c7b635becc25b2751c) by David Peterman (https://sketchfab.com/Sphenodiscus24) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
