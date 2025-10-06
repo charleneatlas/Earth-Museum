@@ -20,7 +20,7 @@ This project owes its success to the following:
 
 
 ## License
-MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+MIT License - see the [LICENSE](LICENSE) file for details.
 Licenses on non-NASA content:
 - http://creativecommons.org/licenses/by-nc-sa/4.0/
 --[Sketchfab: Coccolithophore phytoplankton](https://skfb.ly/oQnMp)
