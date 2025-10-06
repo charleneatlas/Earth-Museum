@@ -30,6 +30,7 @@ Licenses on non-NASA content:
 
 ## Acknowledgments
 - Anquida Adams - For hack presentation prep!
+- Jordan Atlas - Making it possible for me to attend the event by taking on a full weekend of solo parenting!
 
 
 ### Closing
