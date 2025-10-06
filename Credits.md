@@ -1,6 +1,6 @@
 # Credits
 
-This project owes its success to the following people and organizations:
+This project owes its success to the following:
 
 ## Contributors
 
@@ -16,7 +16,7 @@ This project owes its success to the following people and organizations:
 
 
 ## Special Thanks
-- Jason Reinhardt: We didn't get to do the hack together but you were there in spirit!
+- Jason Reinhardt - We didn't get to do the hack together but you were there in spirit!
 
 
 ## License
