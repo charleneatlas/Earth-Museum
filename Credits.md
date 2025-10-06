@@ -1,6 +1,6 @@
 # Credits
 
-This project owes its success to the following people and organizations:
+This project owes its success to the following:
 
 ## Contributors
 
@@ -16,11 +16,11 @@ This project owes its success to the following people and organizations:
 
 
 ## Special Thanks
-- Jason Reinhardt: We didn't get to do the hack together but you were there in spirit!
+- Jason Reinhardt - We didn't get to do the hack together but you were there in spirit!
 
 
 ## License
-MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+MIT License - see the [LICENSE](LICENSE) file for details.
 Licenses on non-NASA content:
 - http://creativecommons.org/licenses/by-nc-sa/4.0/
 --[Sketchfab: Coccolithophore phytoplankton](https://skfb.ly/oQnMp)
